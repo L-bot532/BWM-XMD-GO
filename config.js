@@ -1,4 +1,4 @@
-// Bwm xmd by Ibrahim Adams 
+// Bwm xmd by levie Njesh 
 
 const fs = require('fs-extra');
 const { Sequelize } = require('sequelize');
